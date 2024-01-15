@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ritik Prakash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src = "https://ritikprakash.netlify.app/images/developer.svg" align = "right" height = "200px"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikprakash9&label=Profile%20views&color=0e75b6&style=flat" alt="ritikprakash9" /> </p>
 
 - 🔭 I’m currently working on [E-Dashboard](https://github.com/ritikprakash9/E-Commerce-Dashboard)
 
