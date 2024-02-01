@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E-Dashboard](https://github.com/ritikprakash9/E-Commerce-Dashboard)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Android Development**
 
 - 👨‍💻 All of my projects are available at [https://ritikprakash.netlify.app/project](https://ritikprakash.netlify.app/project)
 
