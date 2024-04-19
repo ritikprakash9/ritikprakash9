@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src = "https://ritikprakash.netlify.app/images/developer.svg" align = "right" height = "200px"/>
 
-- 🔭 I’m currently working on [E-Dashboard](https://github.com/ritikprakash9/E-Commerce-Dashboard)
+- 🔭 I’m currently working on [MERN Stack Chatting Application]
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://ritikprakash.netlify.app/project](https://ritikprakash.netlify.app/project)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **prakashritik97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aI42b88Wb4ZTMgdaqi3jkGFOOBT7r1OV/view?usp=sharing](https://drive.google.com/file/d/1aI42b88Wb4ZTMgdaqi3jkGFOOBT7r1OV/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aI42b88Wb4ZTMgdaqi3jkGFOOBT7r1OV/view?usp=sharing]([https://drive.google.com/file/d/1aI42b88Wb4ZTMgdaqi3jkGFOOBT7r1OV/view?usp=sharing](https://hackerrank-resume.s3.us-east-1.amazonaws.com/uploads/9788881/OTc4ODg4MQ==.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
